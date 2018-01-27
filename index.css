@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Macondo');
+table,td, th {
+    border: 5px solid #003333;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+body{
+  background-color: #ccffff;
+  font-family: 'Macondo', cursive;
+  font-size: 20px;
+}
